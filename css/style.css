@@ -1,0 +1,102 @@
+.container{
+    max-width: 1200px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+
+.kkk{
+    position: relative;
+    left: 100px;
+    top: 5px;
+    bottom: 5px;
+    width: 122px;
+    height: 53px;
+    /* border: 1px solid red; */
+
+
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+    /* border: 1px solid red; */
+
+}
+
+.a:hover{
+    background-color: aqua;
+    color: white;
+    /* border: 1px solid red; */
+
+}
+
+.href{
+    position: relative;
+    left: 300px;
+    bottom: 30px;
+    /* border: 1px solid red; */
+
+}
+
+
+.position{
+    position: relative;
+    left: 500px;
+    bottom: 19px;
+    margin-left: 18px;
+    cursor: pointer;
+    /* border: 1px solid red; */
+    width: 50px;
+
+}
+
+.alohida{
+    position: relative;
+    left: 633px;
+    bottom: 35px;
+    cursor: pointer;
+    border-width: 0px;
+    height: 50px;
+}
+
+.ff{
+    text-decoration: none;
+    color: black;
+}
+
+.ff:hover{
+    background-color: aqua;
+    color: white;
+}
+
+
+.kill{
+color: white;
+text-align: center;
+}
+
+.yozuv{
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+    
+}
+
+.button{
+    background-color: #AE7B3C;
+    width: 260px;
+    height  : 60px;
+
+    color: white;
+}
+.hhh{
+    text-align: center;
+    position: relative;
+    left: 180px;
+}
+
+.usta{
+    margin-left: 0px;
+}
